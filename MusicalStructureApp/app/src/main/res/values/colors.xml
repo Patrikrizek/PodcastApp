@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#cccccc</color>
+    <color name="primary_dark_color">#000000</color>
+
+    <color name="category_all">#ffffff</color>
+    <color name="category_buchty">#ffffff</color>
+    <color name="category_diagnoza_f">#ffffff</color>
+    <color name="blank_fragment">#ffffff</color>
+
+    <color name="tan_background">#ffffff</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="player">Player</string>
+    <string name="category_all">All</string>
+    <string name="buchty">Buchty</string>
+    <string name="diagnoza_f">Diagnóza F</string>
+    <string name="new_podcasts">New podcasts</string>
+    <string name="empty">No new podcasts founded.</string>
+
+    <string name="buchty_one_title">Buchty na téma o nenaplněných ambicích</string>
+    <string name="buchty_two_title">Buchty na téma párty</string>
+    <string name="buchty_one_date">Buchty | Rádio Wave | 08/08/2018</string>
+    <string name="buchty_two_date">Buchty | Rádio Wave | 25/07/2018</string>
+
+    <string name="diagnoza_f_one_title">Na štěstí se musí pracovat, samo nepřijde</string>
+    <string name="diagnoza_f_two_title">Streetworker nehodnotí jestli si za problémy může člověk nebo ne</string>
+    <string name="diagnoza_f_one_date">Diagnóza F | Rádio Wave | 27/07/2018</string>
+    <string name="diagnoza_f_two_date">Diagnóza F | Rádio Wave | 20/07/2018</string>
+</resources>
